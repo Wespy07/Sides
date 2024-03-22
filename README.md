@@ -1,4 +1,4 @@
 # Sides
 
 
-Some Challenges and side projects
+Some CSS & JS Challenges and side projects
