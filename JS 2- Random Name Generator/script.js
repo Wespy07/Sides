@@ -1,5 +1,7 @@
 /* Create a business name generator by combining one word from each of the list
 
+!!!!!!!!!!WITHOUT USING ARRAYS!!!!!!!!!!!!!
+
 Frist Word:
 Crazy 
 Amazing
